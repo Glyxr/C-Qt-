@@ -42,6 +42,7 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/qt/Pro1-1220/*.cpp")
 set(OLD_GLOB
   "D:/qt/Pro1-1220/main.cpp"
+  "D:/qt/Pro1-1220/myPushButton.cpp"
   "D:/qt/Pro1-1220/mywidget.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -61,6 +62,7 @@ endif()
 # _directory_contents at D:/QtDown/6.4.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:83 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/qt/Pro1-1220/*.h")
 set(OLD_GLOB
+  "D:/qt/Pro1-1220/myPushButton.h"
   "D:/qt/Pro1-1220/mywidget.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

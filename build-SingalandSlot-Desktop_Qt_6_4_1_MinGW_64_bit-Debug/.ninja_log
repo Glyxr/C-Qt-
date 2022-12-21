@@ -1,0 +1,9 @@
+# ninja log v5
+1	18	0	CMakeFiles/clean.additional	5efd9b3c82f0470a
+18	26	0	clean	46c52319b03c5a58
+0	29	0	CMakeFiles/clean.additional	5efd9b3c82f0470a
+29	45	0	clean	46c52319b03c5a58
+2	824	6933307865608303	SingalandSlot_autogen/timestamp	483182683a773698
+2	824	6933307865608303	SingalandSlot_autogen/mocs_compilation.cpp	483182683a773698
+2	824	6933307865608303	D:/qt/build-SingalandSlot-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SingalandSlot_autogen/timestamp	483182683a773698
+2	824	6933307865608303	D:/qt/build-SingalandSlot-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SingalandSlot_autogen/mocs_compilation.cpp	483182683a773698

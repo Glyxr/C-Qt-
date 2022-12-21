@@ -18,6 +18,8 @@ set(PROJECT_SOURCES
         main.cpp
         mywidget.cpp
         mywidget.h
+        myPushButton.h
+        myPushButton.cpp
         ${TS_FILES}
 )
 
