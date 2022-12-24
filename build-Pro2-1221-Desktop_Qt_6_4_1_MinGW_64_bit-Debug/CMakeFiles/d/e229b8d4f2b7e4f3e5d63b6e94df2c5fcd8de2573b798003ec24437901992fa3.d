@@ -530,6 +530,8 @@ Pro2-1221_autogen/timestamp: \
   D:/qt/Pro2-1221/myPushButton.h \
   D:/qt/Pro2-1221/widget.cpp \
   D:/qt/Pro2-1221/widget.h \
+  D:/qt/Pro2-1221/window1.cpp \
+  D:/qt/Pro2-1221/window1.h \
   CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
   CMakeFiles/3.24.2/CMakeRCCompiler.cmake \
   CMakeFiles/3.24.2/CMakeSystem.cmake \

@@ -290,7 +290,8 @@
 			"EWIEGA46WW/moc_myPushButton.cpp",
 			null
 		],
-		[ "D:/qt/Pro2-1221/widget.h", "MU", "EWIEGA46WW/moc_widget.cpp", null ]
+		[ "D:/qt/Pro2-1221/widget.h", "MU", "EWIEGA46WW/moc_widget.cpp", null ],
+		[ "D:/qt/Pro2-1221/window1.h", "MU", "EWIEGA46WW/moc_window1.cpp", null ]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "D:/qt/build-Pro2-1221-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro2-1221_autogen/include",
@@ -365,7 +366,8 @@
 		[ "D:/qt/Pro2-1221/Teacher.cpp", "MU", null ],
 		[ "D:/qt/Pro2-1221/main.cpp", "MU", null ],
 		[ "D:/qt/Pro2-1221/myPushButton.cpp", "MU", null ],
-		[ "D:/qt/Pro2-1221/widget.cpp", "MU", null ]
+		[ "D:/qt/Pro2-1221/widget.cpp", "MU", null ],
+		[ "D:/qt/Pro2-1221/window1.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

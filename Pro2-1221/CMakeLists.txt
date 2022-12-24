@@ -23,6 +23,8 @@ set(PROJECT_SOURCES
         Student.cpp
         myPushButton.h
         myPushButton.cpp
+        window1.h
+        window1.cpp
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

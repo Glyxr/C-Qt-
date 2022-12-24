@@ -3,3 +3,4 @@
 #include "EWIEGA46WW/moc_Teacher.cpp"
 #include "EWIEGA46WW/moc_myPushButton.cpp"
 #include "EWIEGA46WW/moc_widget.cpp"
+#include "EWIEGA46WW/moc_window1.cpp"

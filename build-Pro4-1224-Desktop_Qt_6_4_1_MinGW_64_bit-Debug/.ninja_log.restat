@@ -1,0 +1,13 @@
+# ninja log v5
+4	178	6935902907245769	Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+4	178	6935902907245769	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+4	178	6935902907245769	Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+4	178	6935902907245769	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+577	2077	6935875579386028	CMakeFiles/Pro4-1224.dir/Pro4-1224_autogen/mocs_compilation.cpp.obj	9b020b45cdcd0008
+237	427	6935902909828631	CMakeFiles/Pro4-1224.dir/Pro4-1224_autogen/EWIEGA46WW/qrc_res.cpp.obj	ca8f9b1df30ba3e6
+1788	1967	6935902052602259	Pro4-1224.exe	8a8b2b6f0e2a462e
+583	2035	6935875578966006	CMakeFiles/Pro4-1224.dir/main.cpp.obj	f9bde228a1739fc0
+246	1787	6935902050852159	CMakeFiles/Pro4-1224.dir/mainwindow.cpp.obj	ded8143b32a6511
+1	509	6935902920482589	build.ninja	b4e54dfea13e2dab
+181	235	6935902907849523	Pro4-1224_autogen/EWIEGA46WW/qrc_res.cpp	645ad7dc007563d0
+181	235	6935902907849523	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/EWIEGA46WW/qrc_res.cpp	645ad7dc007563d0

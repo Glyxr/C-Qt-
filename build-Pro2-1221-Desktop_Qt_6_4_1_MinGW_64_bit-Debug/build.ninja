@@ -97,6 +97,14 @@ build CMakeFiles/Pro2-1221.dir/myPushButton.cpp.obj: CXX_COMPILER__Pro2-1221_Deb
   OBJECT_DIR = CMakeFiles\Pro2-1221.dir
   OBJECT_FILE_DIR = CMakeFiles\Pro2-1221.dir
 
+build CMakeFiles/Pro2-1221.dir/window1.cpp.obj: CXX_COMPILER__Pro2-1221_Debug D$:/qt/Pro2-1221/window1.cpp || cmake_object_order_depends_target_Pro2-1221
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Pro2-1221.dir\window1.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -ID:/qt/build-Pro2-1221-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro2-1221_autogen/include -isystem D:/QtDown/6.4.1/mingw_64/include/QtCore -isystem D:/QtDown/6.4.1/mingw_64/include -isystem D:/QtDown/6.4.1/mingw_64/mkspecs/win32-g++ -isystem D:/QtDown/6.4.1/mingw_64/include/QtWidgets -isystem D:/QtDown/6.4.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Pro2-1221.dir
+  OBJECT_FILE_DIR = CMakeFiles\Pro2-1221.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Pro2-1221
@@ -105,7 +113,7 @@ build CMakeFiles/Pro2-1221.dir/myPushButton.cpp.obj: CXX_COMPILER__Pro2-1221_Deb
 #############################################
 # Link the executable Pro2-1221.exe
 
-build Pro2-1221.exe: CXX_EXECUTABLE_LINKER__Pro2-1221_Debug CMakeFiles/Pro2-1221.dir/Pro2-1221_autogen/mocs_compilation.cpp.obj CMakeFiles/Pro2-1221.dir/main.cpp.obj CMakeFiles/Pro2-1221.dir/widget.cpp.obj CMakeFiles/Pro2-1221.dir/Teacher.cpp.obj CMakeFiles/Pro2-1221.dir/Student.cpp.obj CMakeFiles/Pro2-1221.dir/myPushButton.cpp.obj | D$:/QtDown/6.4.1/mingw_64/lib/libQt6Widgets.a D$:/QtDown/6.4.1/mingw_64/lib/libQt6Gui.a D$:/QtDown/6.4.1/mingw_64/lib/libQt6Core.a D$:/QtDown/6.4.1/mingw_64/lib/libQt6EntryPoint.a || Pro2-1221_autogen Pro2-1221_autogen_timestamp_deps
+build Pro2-1221.exe: CXX_EXECUTABLE_LINKER__Pro2-1221_Debug CMakeFiles/Pro2-1221.dir/Pro2-1221_autogen/mocs_compilation.cpp.obj CMakeFiles/Pro2-1221.dir/main.cpp.obj CMakeFiles/Pro2-1221.dir/widget.cpp.obj CMakeFiles/Pro2-1221.dir/Teacher.cpp.obj CMakeFiles/Pro2-1221.dir/Student.cpp.obj CMakeFiles/Pro2-1221.dir/myPushButton.cpp.obj CMakeFiles/Pro2-1221.dir/window1.cpp.obj | D$:/QtDown/6.4.1/mingw_64/lib/libQt6Widgets.a D$:/QtDown/6.4.1/mingw_64/lib/libQt6Gui.a D$:/QtDown/6.4.1/mingw_64/lib/libQt6Core.a D$:/QtDown/6.4.1/mingw_64/lib/libQt6EntryPoint.a || Pro2-1221_autogen Pro2-1221_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = D:/QtDown/6.4.1/mingw_64/lib/libQt6Widgets.a  D:/QtDown/6.4.1/mingw_64/lib/libQt6Gui.a  D:/QtDown/6.4.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  D:/QtDown/6.4.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -208,7 +216,7 @@ build Pro2-1221_autogen/timestamp Pro2-1221_autogen/mocs_compilation.cpp | ${cma
 #############################################
 # Phony custom command for CMakeFiles\Pro2-1221_autogen_timestamp_deps
 
-build CMakeFiles/Pro2-1221_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/Pro2-1221_autogen_timestamp_deps: phony D$:/QtDown/6.4.1/mingw_64/lib/libQt6Core.a D$:/QtDown/6.4.1/mingw_64/./bin/moc.exe D$:/QtDown/6.4.1/mingw_64/./bin/uic.exe D$:/QtDown/6.4.1/mingw_64/lib/libQt6Widgets.a
+build CMakeFiles/Pro2-1221_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/Pro2-1221_autogen_timestamp_deps: phony D$:/QtDown/6.4.1/mingw_64/lib/libQt6Core.a D$:/QtDown/6.4.1/mingw_64/./bin/uic.exe D$:/QtDown/6.4.1/mingw_64/./bin/moc.exe D$:/QtDown/6.4.1/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################

@@ -335,4 +335,5 @@ D:/qt/build-Pro2-1221-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro2-1221_autogen/EWIE
   D:/QtDown/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
   D:/qt/Pro2-1221/Student.h \
   D:/qt/Pro2-1221/Teacher.h \
-  D:/qt/Pro2-1221/myPushButton.h
+  D:/qt/Pro2-1221/myPushButton.h \
+  D:/qt/Pro2-1221/window1.h

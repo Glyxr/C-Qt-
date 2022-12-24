@@ -1,0 +1,25 @@
+# ninja log v5
+8	197	6935968912255577	Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+8	197	6935968912255577	Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+8	197	6935968912255577	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+8	197	6935968912255577	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+237	427	6935902909828631	CMakeFiles/Pro4-1224.dir/Pro4-1224_autogen/EWIEGA46WW/qrc_res.cpp.obj	ca8f9b1df30ba3e6
+1969	2135	6935968931604916	Pro4-1224.exe	8a8b2b6f0e2a462e
+583	2035	6935875578966006	CMakeFiles/Pro4-1224.dir/main.cpp.obj	f9bde228a1739fc0
+577	2077	6935875579386028	CMakeFiles/Pro4-1224.dir/Pro4-1224_autogen/mocs_compilation.cpp.obj	9b020b45cdcd0008
+199	1969	6935968929965665	CMakeFiles/Pro4-1224.dir/mainwindow.cpp.obj	ded8143b32a6511
+1	509	6935902905045435	build.ninja	b4e54dfea13e2dab
+181	235	6935902907849523	Pro4-1224_autogen/EWIEGA46WW/qrc_res.cpp	645ad7dc007563d0
+181	235	6935902907849523	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/EWIEGA46WW/qrc_res.cpp	645ad7dc007563d0
+11	213	6935969915838028	Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+11	213	6935969915838028	Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+11	213	6935969915838028	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+11	213	6935969915838028	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+215	1993	6935969933614512	CMakeFiles/Pro4-1224.dir/mainwindow.cpp.obj	ded8143b32a6511
+1994	2167	6935969935318069	Pro4-1224.exe	8a8b2b6f0e2a462e
+6	197	6935971082422170	Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+6	197	6935971082422170	Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+6	197	6935971082422170	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/timestamp	5f873d5c1ed20b29
+6	197	6935971082422170	D:/qt/build-Pro4-1224-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro4-1224_autogen/mocs_compilation.cpp	5f873d5c1ed20b29
+199	1968	6935971100122143	CMakeFiles/Pro4-1224.dir/mainwindow.cpp.obj	ded8143b32a6511
+1969	2145	6935971101862152	Pro4-1224.exe	8a8b2b6f0e2a462e
