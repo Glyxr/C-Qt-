@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7ea9806ad14721c570b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pro6-1226",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro6-1226::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro6-1226-Debug-398a72ae2b98d8587ec9.json",
+					"name" : "Pro6-1226",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro6-1226_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro6-1226_autogen-Debug-afbc309cce287e6d6a74.json",
+					"name" : "Pro6-1226_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro6-1226_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro6-1226_autogen_timestamp_deps-Debug-55e7155e251c9bf195ca.json",
+					"name" : "Pro6-1226_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt/build-Pro6-1226-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "D:/qt/Pro6-1226"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

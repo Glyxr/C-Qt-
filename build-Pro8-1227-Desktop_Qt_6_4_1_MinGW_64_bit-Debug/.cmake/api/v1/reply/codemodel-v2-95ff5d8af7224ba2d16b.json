@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-47ab885acb0529be99e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pro8-1227",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro8-1227::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro8-1227-Debug-8c722aab5c46eb24d88c.json",
+					"name" : "Pro8-1227",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro8-1227_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro8-1227_autogen-Debug-30c88271ccdd018c5d7d.json",
+					"name" : "Pro8-1227_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro8-1227_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro8-1227_autogen_timestamp_deps-Debug-7c7ca3a9467d31fa3351.json",
+					"name" : "Pro8-1227_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt/build-Pro8-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "D:/qt/Pro8-1227"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

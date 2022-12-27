@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen",
+	"CMAKE_BINARY_DIR" : "D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/qt/Pro-1227",
+	"CMAKE_SOURCE_DIR" : "D:/qt/Pro-1227",
+	"INCLUDE_DIR" : "D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen/include",
+	"INPUTS" : [ "D:/qt/Pro-1227/8591019.jpg" ],
+	"LOCK_FILE" : "D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Pro-1227_autogen.dir/AutoRcc_img_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "img" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_img.cpp",
+	"RCC_EXECUTABLE" : "D:/QtDown/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Pro-1227_autogen.dir/AutoRcc_img_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/qt/Pro-1227/img.qrc",
+	"VERBOSITY" : 0
+}

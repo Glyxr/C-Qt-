@@ -1,0 +1,19 @@
+# ninja log v5
+4	185	6938493424867540	Pro-1227_autogen/timestamp	1a54e2d79c77d3fe
+662	2122	6938484266296944	CMakeFiles/Pro-1227.dir/Pro-1227_autogen/mocs_compilation.cpp.obj	c9900f6c6de6ca36
+4	185	6938493424867540	Pro-1227_autogen/mocs_compilation.cpp	1a54e2d79c77d3fe
+1521	1713	6938492271423028	Pro-1227.exe	c9217be53e199da3
+198	259	6938487716318304	Pro-1227_autogen/EWIEGA46WW/qrc_img.cpp	433ecd40c014263c
+4	185	6938493424867540	D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen/mocs_compilation.cpp	1a54e2d79c77d3fe
+4	185	6938493424867540	D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen/timestamp	1a54e2d79c77d3fe
+187	234	6938493425330087	D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen/EWIEGA46WW/qrc_img2.cpp	5675144c74d3ff0f
+664	2176	6938484266847057	CMakeFiles/Pro-1227.dir/main.cpp.obj	ad25d4644c269a39
+189	1520	6938492269543055	CMakeFiles/Pro-1227.dir/mainwindow.cpp.obj	c120aab55577f8a0
+1	532	6938493438120067	build.ninja	a3d733fec1677b7a
+198	259	6938487716318304	D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen/EWIEGA46WW/qrc_img.cpp	433ecd40c014263c
+260	470	6938487718458192	CMakeFiles/Pro-1227.dir/Pro-1227_autogen/EWIEGA46WW/qrc_img.cpp.obj	404e9b703c35091c
+222	282	6938491252209965	Pro-1227_autogen/EWIEGA46WW/qrc_img1.cpp	3c0f9e33c6f2d0bd
+222	282	6938491252209965	D:/qt/build-Pro-1227-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1227_autogen/EWIEGA46WW/qrc_img1.cpp	3c0f9e33c6f2d0bd
+282	478	6938491254199893	CMakeFiles/Pro-1227.dir/Pro-1227_autogen/EWIEGA46WW/qrc_img1.cpp.obj	569f016a91fca9e7
+187	234	6938493425330087	Pro-1227_autogen/EWIEGA46WW/qrc_img2.cpp	5675144c74d3ff0f
+236	281	6938493425840075	CMakeFiles/Pro-1227.dir/Pro-1227_autogen/EWIEGA46WW/qrc_img2.cpp.obj	614748137aa7f090
