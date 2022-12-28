@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "D:/qt/build-Pro10-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro10-1228_autogen",
+	"CMAKE_BINARY_DIR" : "D:/qt/build-Pro10-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/qt/build-Pro10-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/qt/Pro10-1228",
+	"CMAKE_SOURCE_DIR" : "D:/qt/Pro10-1228",
+	"INCLUDE_DIR" : "D:/qt/build-Pro10-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro10-1228_autogen/include",
+	"INPUTS" : [ "D:/qt/Pro10-1228/8591019.jpg" ],
+	"LOCK_FILE" : "D:/qt/build-Pro10-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Pro10-1228_autogen.dir/AutoRcc_rec_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "rec" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_rec.cpp",
+	"RCC_EXECUTABLE" : "D:/QtDown/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/qt/build-Pro10-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Pro10-1228_autogen.dir/AutoRcc_rec_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/qt/Pro10-1228/rec.qrc",
+	"VERBOSITY" : 0
+}

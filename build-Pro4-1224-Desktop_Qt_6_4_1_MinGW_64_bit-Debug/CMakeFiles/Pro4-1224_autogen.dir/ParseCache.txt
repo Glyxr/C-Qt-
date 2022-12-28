@@ -334,6 +334,6 @@ D:/qt/Pro4-1224/mainwindow.h
  mdp:D:/QtDown/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:D:/QtDown/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:D:/QtDown/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
+D:/qt/Pro4-1224/main.cpp
 D:/qt/Pro4-1224/mainwindow.cpp
  uic:ui_mainwindow.h
-D:/qt/Pro4-1224/main.cpp

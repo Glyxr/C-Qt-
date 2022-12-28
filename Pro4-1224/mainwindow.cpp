@@ -50,7 +50,9 @@ MainWindow::MainWindow(QWidget *parent)
 //        QString str = QFileDialog::getOpenFileName(this,"dakai","C:\\Users\\27197\\Desktop");
 //        qDebug()<<str;
         //字体对话框
-
+        bool flag;
+        QFont font = QFontDialog::getFont(&flag,QFont("华文彩云",36));
+        qDebug()<<"字体"<<font.family().toUtf8().data()<<"字号"<<font.pointSize()<<"是否加粗"<<font.bold()<<"倾斜"<<font.italic();
     });
 }
 

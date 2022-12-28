@@ -1,0 +1,11 @@
+# ninja log v5
+1	509	6939339150652768	build.ninja	2a7acbaf0e25603a
+5	240	6939339137386229	1228-1_autogen/timestamp	d72504ba9c2f2a81
+5	240	6939339137386229	1228-1_autogen/mocs_compilation.cpp	d72504ba9c2f2a81
+802	16004	6939337290477233	CMakeFiles/1228-1.dir/main.cpp.obj	b797f4692ad3a3aa
+5	240	6939339137386229	D:/qt/build-1228-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1228-1_autogen/timestamp	d72504ba9c2f2a81
+5	240	6939339137386229	D:/qt/build-1228-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1228-1_autogen/mocs_compilation.cpp	d72504ba9c2f2a81
+799	15633	6939337286142856	CMakeFiles/1228-1.dir/1228-1_autogen/mocs_compilation.cpp.obj	9d682280dc4b4bfe
+229	11100	6939338612458032	CMakeFiles/1228-1.dir/widget.cpp.obj	b67b9b66e32b2f14
+225	11214	6939338613601160	CMakeFiles/1228-1.dir/smallwidget.cpp.obj	ff3394b6e9245830
+11214	11911	6939338620497428	1228-1.exe	6e03537621dd66d9
