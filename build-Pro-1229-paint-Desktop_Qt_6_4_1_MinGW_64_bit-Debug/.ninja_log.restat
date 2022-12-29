@@ -1,0 +1,13 @@
+# ninja log v5
+4	192	6940250812375218	Pro-1229-paint_autogen/timestamp	6d2f63b1d4c5430d
+4	192	6940250812375218	Pro-1229-paint_autogen/mocs_compilation.cpp	6d2f63b1d4c5430d
+1261	3698	6940111618313806	CMakeFiles/Pro-1229-paint.dir/main.cpp.obj	2a320eed23cb833f
+4	192	6940250812375218	D:/qt/build-Pro-1229-paint-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1229-paint_autogen/timestamp	6d2f63b1d4c5430d
+4	192	6940250812375218	D:/qt/build-Pro-1229-paint-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1229-paint_autogen/mocs_compilation.cpp	6d2f63b1d4c5430d
+1255	3667	6940111618004869	CMakeFiles/Pro-1229-paint.dir/Pro-1229-paint_autogen/mocs_compilation.cpp.obj	b1be30e43332da4e
+213	1565	6940248531286701	CMakeFiles/Pro-1229-paint.dir/widget.cpp.obj	5b7c5401ec418654
+1565	1738	6940248532984344	Pro-1229-paint.exe	e5e4fe2836cb6001
+1	473	6940250826059650	build.ninja	553540d392f44e5
+194	244	6940250812873595	Pro-1229-paint_autogen/EWIEGA46WW/qrc_rec.cpp	23c47b9a22832a30
+194	244	6940250812873595	D:/qt/build-Pro-1229-paint-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1229-paint_autogen/EWIEGA46WW/qrc_rec.cpp	23c47b9a22832a30
+248	455	6940250815016386	CMakeFiles/Pro-1229-paint.dir/Pro-1229-paint_autogen/EWIEGA46WW/qrc_rec.cpp.obj	25d96a85bbc5b420

@@ -1,5 +1,6 @@
 D:/qt/build-Pro-QEvent-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-QEvent-1228_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/qt/Pro-QEvent-1228/mainwindow.h \
   D:/qt/build-Pro-QEvent-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-QEvent-1228_autogen/moc_predefs.h \
+  D:/QtDown/6.4.1/mingw_64/include/QtCore/QTimerEvent \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qalgorithms.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qanystringview.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qarraydata.h \
@@ -22,6 +23,7 @@ D:/qt/build-Pro-QEvent-1228-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-QEvent-1228_
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qcontainerinfo.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qcontainertools_impl.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  D:/QtDown/6.4.1/mingw_64/include/QtCore/qcoreevent.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qdatastream.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qdebug.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qflags.h \

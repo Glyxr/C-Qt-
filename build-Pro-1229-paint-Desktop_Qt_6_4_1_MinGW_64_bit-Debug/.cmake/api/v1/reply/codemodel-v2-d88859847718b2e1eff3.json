@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ce9d7b75841dad0c4605.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Pro-1229-paint",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro-1229-paint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro-1229-paint-Debug-a8b1c62b69694401203b.json",
+					"name" : "Pro-1229-paint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro-1229-paint_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro-1229-paint_autogen-Debug-55e04b817e3636f938d2.json",
+					"name" : "Pro-1229-paint_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pro-1229-paint_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pro-1229-paint_autogen_timestamp_deps-Debug-0a5bdce93e825c8c810c.json",
+					"name" : "Pro-1229-paint_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt/build-Pro-1229-paint-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "D:/qt/Pro-1229-paint"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

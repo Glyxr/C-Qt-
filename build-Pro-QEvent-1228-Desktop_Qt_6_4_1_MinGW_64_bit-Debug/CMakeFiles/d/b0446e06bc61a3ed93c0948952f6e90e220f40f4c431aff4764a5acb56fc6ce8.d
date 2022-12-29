@@ -1,5 +1,6 @@
 Pro-QEvent-1228_autogen/timestamp: \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/QEvent \
+  D:/QtDown/6.4.1/mingw_64/include/QtCore/QTimerEvent \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qalgorithms.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qanystringview.h \
   D:/QtDown/6.4.1/mingw_64/include/QtCore/qarraydata.h \

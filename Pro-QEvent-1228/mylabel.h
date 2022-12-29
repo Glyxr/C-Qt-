@@ -16,6 +16,8 @@ public:
     virtual void mousePressEvent(QMouseEvent *ev);
     virtual void mouseReleaseEvent(QMouseEvent *ev);
     virtual void mouseMoveEvent(QMouseEvent *ev);
+    //通过event事件分发器，拦截鼠标按下事件
+    bool event(QEvent *ev);
 signals:
 
 };

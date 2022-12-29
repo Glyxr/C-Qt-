@@ -1,0 +1,13 @@
+# ninja log v5
+645	2474	6940261898501012	CMakeFiles/Pro-1220-painterDe.dir/main.cpp.obj	7a9ec77999009f03
+5	624	6940272910357473	D:/qt/build-Pro-1220-painterDe-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1220-painterDe_autogen/mocs_compilation.cpp	eb34cab43d2cd13d
+624	680	6940272912470411	D:/qt/build-Pro-1220-painterDe-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1220-painterDe_autogen/EWIEGA46WW/qrc_rec.cpp	8236e3635b1cc4be
+5	624	6940272910357473	Pro-1220-painterDe_autogen/timestamp	eb34cab43d2cd13d
+214	1655	6940268108618522	CMakeFiles/Pro-1220-painterDe.dir/widget.cpp.obj	197bfca58ae34861
+5	624	6940272910357473	Pro-1220-painterDe_autogen/mocs_compilation.cpp	eb34cab43d2cd13d
+1655	1835	6940268110392602	Pro-1220-painterDe.exe	f5a463916dc4f163
+5	624	6940272910357473	D:/qt/build-Pro-1220-painterDe-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Pro-1220-painterDe_autogen/timestamp	eb34cab43d2cd13d
+641	2470	6940261898471112	CMakeFiles/Pro-1220-painterDe.dir/Pro-1220-painterDe_autogen/mocs_compilation.cpp.obj	8faebb393eefffac
+1	542	6940272922362584	build.ninja	95743f333cbdcb95
+624	680	6940272912470411	Pro-1220-painterDe_autogen/EWIEGA46WW/qrc_rec.cpp	8236e3635b1cc4be
+689	995	6940272915629835	CMakeFiles/Pro-1220-painterDe.dir/Pro-1220-painterDe_autogen/EWIEGA46WW/qrc_rec.cpp.obj	7cc5cccc782c3c3a
