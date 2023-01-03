@@ -1,0 +1,9 @@
+# ninja log v5
+630	693	6944530895331109	CMakeFiles/1.dir/1_autogen/EWIEGA46WW/qrc_res.cpp.obj	6d2bc8399dec41f
+1	487	6944530917048541	build.ninja	8e3079f67c60fb76
+1	582	6944530892918162	1_autogen/timestamp	9a50eb6da332540a
+1	582	6944530892918162	1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+1	582	6944530892918162	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/timestamp	9a50eb6da332540a
+1	582	6944530892918162	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+583	626	6944530894623473	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/EWIEGA46WW/qrc_res.cpp	f3de0bdd3313435c
+583	626	6944530894623473	1_autogen/EWIEGA46WW/qrc_res.cpp	f3de0bdd3313435c

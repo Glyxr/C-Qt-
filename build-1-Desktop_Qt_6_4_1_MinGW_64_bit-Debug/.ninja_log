@@ -1,0 +1,25 @@
+# ninja log v5
+1	487	6944530888133539	build.ninja	8e3079f67c60fb76
+1	582	6944530892918162	1_autogen/timestamp	9a50eb6da332540a
+1	582	6944530892918162	1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+1	582	6944530892918162	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/timestamp	9a50eb6da332540a
+1	582	6944530892918162	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+583	626	6944530894623473	1_autogen/EWIEGA46WW/qrc_res.cpp	f3de0bdd3313435c
+583	626	6944530894623473	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/EWIEGA46WW/qrc_res.cpp	f3de0bdd3313435c
+630	693	6944530895331109	CMakeFiles/1.dir/1_autogen/EWIEGA46WW/qrc_res.cpp.obj	6d2bc8399dec41f
+627	8836	6944530976639188	CMakeFiles/1.dir/1_autogen/mocs_compilation.cpp.obj	b61811e1465b86d8
+635	9003	6944530978313594	CMakeFiles/1.dir/main.cpp.obj	42a0baf46d4e0feb
+632	9063	6944530978941523	CMakeFiles/1.dir/mainwindow.cpp.obj	3b6f2c9d1ca92b30
+9063	9600	6944530984284315	1.exe	9981ebd6e5dd45
+5	220	6944533604350935	1_autogen/timestamp	9a50eb6da332540a
+5	220	6944533604350935	1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+5	220	6944533604350935	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/timestamp	9a50eb6da332540a
+5	220	6944533604350935	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+222	1636	6944533618519329	CMakeFiles/1.dir/mainwindow.cpp.obj	3b6f2c9d1ca92b30
+1637	1794	6944533620015768	1.exe	9981ebd6e5dd45
+4	206	6944534041506744	1_autogen/timestamp	9a50eb6da332540a
+4	206	6944534041506744	1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+4	206	6944534041506744	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/timestamp	9a50eb6da332540a
+4	206	6944534041506744	D:/qt/build-1-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/1_autogen/mocs_compilation.cpp	9a50eb6da332540a
+208	1497	6944534054415697	CMakeFiles/1.dir/mainwindow.cpp.obj	3b6f2c9d1ca92b30
+1497	1638	6944534055792079	1.exe	9981ebd6e5dd45
